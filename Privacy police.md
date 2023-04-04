@@ -41,6 +41,7 @@ Following people can access message content :
 Bot developer(s)
 
 #How can I get rid of the data stored?
+
 To remove the server id or user id stored in our database do one of the following:
 
 Contact any of the server moderators in our discord support server.

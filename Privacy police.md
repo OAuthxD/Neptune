@@ -1,4 +1,4 @@
-# statement
+# STATEMENT
 
 We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Zerox or servers where Zerox is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
